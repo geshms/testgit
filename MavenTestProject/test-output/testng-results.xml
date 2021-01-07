@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14641" started-at="2020-12-12T20:39:00Z" finished-at="2020-12-12T20:39:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14641" started-at="2020-12-12T20:39:00Z" finished-at="2020-12-12T20:39:14Z">
+      <class name="mavenTest.JobServe">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenTest.JobServe@45018215]" name="beforeTest" is-config="true" duration-ms="4578" started-at="2020-12-12T20:39:00Z" finished-at="2020-12-12T20:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testKeyword()[pri:0, instance:mavenTest.JobServe@45018215]" name="testKeyword" duration-ms="9910" started-at="2020-12-12T20:39:04Z" finished-at="2020-12-12T20:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKeyword -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenTest.JobServe@45018215]" name="afterTest" is-config="true" duration-ms="135" started-at="2020-12-12T20:39:14Z" finished-at="2020-12-12T20:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavenTest.JobServe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
